@@ -1,8 +1,8 @@
 # Integrationstester
 
-Testare: Joel del Pilar
-Datum: Jan -2023
-Kurs: Testning, Medieinstitutet - Front End Development
+- Testare: Joel del Pilar
+- Datum: Jan -2023
+- Kurs: Testning, Medieinstitutet - Front End Development
 
 ## Att göra
 
