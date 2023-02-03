@@ -31,6 +31,7 @@ describe('testing happy-flow and error catch in getData', () => {
         }
         catch(error: any) {
             expect(error.length).toBe(0);
+            expect(error).toReturnWith([]);
         }
     });
 });
